@@ -1,12 +1,2 @@
-- 👋 Hi, I’m @DHANVEE-PANDEY25
-- 👀 I’m interested in ...Graphic designing
-- 🌱 I’m currently learning ...Adobe Illustrator,
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-DHANVEE-PANDEY25/DHANVEE-PANDEY25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+This CALORIE BURNT PREDICTOR is a machine learning project which focused on predicting calories burnt during physical exercise.The steps involved such as data preprocessing, exploratory data analysis, model training, and evaluation. By applying various regression models, the number of calories burnt are predicted accurately.
+This project showcases the application of machine learning in health and fitness domains, providing insights into the factors affecting calories burnt during exercise.
